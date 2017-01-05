@@ -36,7 +36,6 @@ Sau khi kiểm tra code với SonarLint, phát hiện một số lỗi phổ bi�
 
 ### Chưa được
 
-- Nhiều chỗ viết tắt không dịch được (ví dụ "phương pháp BVT", "DTT")
 - Chưa liệt kê các ca kiểm thử
 
 ## BT3
